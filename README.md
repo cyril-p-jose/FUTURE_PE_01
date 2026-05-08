@@ -119,7 +119,7 @@ The project uses structured prompts to:
 
 # Example Prompt
 
-```text
+```
 Generate homepage copy for a modern cafe in Kochi.
 
 Tone: Warm and welcoming
@@ -132,3 +132,32 @@ Include:
 - CTA section
 
 Make the copy concise, persuasive, and website-ready.
+```
+## Learning Outcomes
+
+Through this project, I improved my skills in:
+
+- Prompt Engineering
+- AI-Assisted Content Generation
+- Website Copywriting
+- Conversion-Focused Messaging
+- React Development
+- UI/UX Design
+---
+## Future Improvements
+- OpenAI API Integration
+- Multi-language Support
+- SEO Optimization Suggestions
+- AI Branding Assistant
+- Website Export Templates
+---
+
+## Author
+
+# CYRIL P JOSE
+
+# Prompt Engineering Internship Project – Future Interns
+
+
+
+
